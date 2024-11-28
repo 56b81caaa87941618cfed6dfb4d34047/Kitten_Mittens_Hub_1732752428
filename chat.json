@@ -246,5 +246,15 @@
         "source": "base_assistant",
         "content": "The text \"woo\" has been removed from the header. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "84f9d5bb-1890-4f38-b8c3-0cc0fa9558e5",
+        "timestamp": "2024-11-28T00:52:43.846118Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you add text that says 'yahoo' to the right side of the header?",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
