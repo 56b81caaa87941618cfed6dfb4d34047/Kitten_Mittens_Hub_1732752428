@@ -460,5 +460,20 @@
         "metadata": {
             "component_id": "Header1732752431"
         }
+    },
+    {
+        "id": "e02a4be6-bf63-4c0a-bdf7-f3d277bfb0d7",
+        "timestamp": "2024-11-28T17:54:28.204785Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_5tHFBl8FrFmqLzYMDGxThWrg",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1732752431\",\"change_description\":\"Change the title to 'cats cats cats'\",\"acknowledgement_message\":\"Changing the title to 'cats cats cats'\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
