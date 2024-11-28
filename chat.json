@@ -75,5 +75,15 @@
         "source": "base_assistant",
         "content": "Could you please provide me with a new title that you find catchy?",
         "metadata": {}
+    },
+    {
+        "id": "c069b9f0-b8b0-464d-a778-617d73ff6d00",
+        "timestamp": "2024-11-28T00:25:03.133046Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you make the title more catchy?",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
