@@ -93,5 +93,15 @@
         "source": "base_assistant",
         "content": "How about we make it \"Welcome to Kitten Mittens Hub\"? Let me know if that works for you or if you have something else in mind!",
         "metadata": {}
+    },
+    {
+        "id": "44f7e77e-feec-4f3a-9bb3-118ad8912ad6",
+        "timestamp": "2024-11-28T00:25:38.461175Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the title to 'cat cat cat'",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
