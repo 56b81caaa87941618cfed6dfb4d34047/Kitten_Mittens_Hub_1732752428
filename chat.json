@@ -501,5 +501,15 @@
         "source": "base_assistant",
         "content": "The title has been changed to \"cats cats cats.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "fed3d3c0-f2bc-484a-9066-ba61d8c03173",
+        "timestamp": "2024-11-28T17:55:03.002505Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the background color to green",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
