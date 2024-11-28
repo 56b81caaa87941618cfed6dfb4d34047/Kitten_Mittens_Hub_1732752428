@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Purrfect Paws",
+        "HERO_HEADING_TEXT": "Introducing Kitten Mittens: Pawsitively Adorable Comfort",
+        "HERO_SUBHEADING_TEXT": "Keep your feline friend's toes cozy and stylish with our specially designed mittens for kittens!",
+        "FOOTER_TEXT": "\u00a9 2023 Purrfect Paws. All rights reserved. Bringing warmth to little paws everywhere."
+    }
+}
