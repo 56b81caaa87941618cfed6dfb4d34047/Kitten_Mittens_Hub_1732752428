@@ -348,5 +348,15 @@
         "source": "base_assistant",
         "content": "The text \"yahoo\" has been removed from the header. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "f2da64c4-6518-4d82-8bee-298e7e027f3f",
+        "timestamp": "2024-11-28T01:04:24.520006Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the title from cat cat cat to catzzz",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
