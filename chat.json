@@ -399,5 +399,15 @@
         "source": "base_assistant",
         "content": "The title has been changed to \"catzzz.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "db400990-6df0-4f12-aed0-b7804132f61e",
+        "timestamp": "2024-11-28T01:10:42.085865Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the title to cats",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
