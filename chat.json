@@ -297,5 +297,15 @@
         "source": "base_assistant",
         "content": "I've added the text \"yahoo\" to the right side of the header. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "86c8f63a-0517-4111-97fc-a12402063927",
+        "timestamp": "2024-11-28T00:58:35.171028Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please remove the text that says yahoo",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
