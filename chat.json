@@ -654,5 +654,15 @@
         "source": "base_assistant",
         "content": "The title has been changed to \"kitten mittens.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "87c4cb75-daa6-45f6-ae1d-51e744a84acb",
+        "timestamp": "2024-12-02T19:17:13.878522Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please remove the exclamation points",
+        "metadata": {
+            "component_id": "Hero1732752431"
+        }
     }
 ]
