@@ -552,5 +552,15 @@
         "source": "base_assistant",
         "content": "The background color has been changed to green. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "f3bcf6f7-35a0-44bf-ba2d-0827742374f1",
+        "timestamp": "2024-12-02T16:24:03.642170Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the title to catzz",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
