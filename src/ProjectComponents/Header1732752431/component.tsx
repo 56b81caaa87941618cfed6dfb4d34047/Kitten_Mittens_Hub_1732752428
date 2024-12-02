@@ -4,7 +4,7 @@ const Header: React.FC = () => {
   return (
     <header className="bg-green-500 text-white p-4 w-full h-full"> {/* Full width and height */}
       <div className="container mx-auto flex justify-between items-center h-full">
-        <div className="text-2xl font-bold">cats cats cats</div>
+        <div className="text-2xl font-bold">catzz</div>
         {/* Right side content removed */}
       </div>
     </header>
