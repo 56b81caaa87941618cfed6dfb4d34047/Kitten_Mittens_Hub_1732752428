@@ -741,5 +741,15 @@
         "source": "base_assistant",
         "content": "The title has been changed to \"KITTEN MITTENS.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "caa9154e-a2fd-466a-99ca-a272e441722e",
+        "timestamp": "2024-12-02T19:19:01.995845Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please remove any exclamation marks",
+        "metadata": {
+            "component_id": "Hero1732752431"
+        }
     }
 ]
