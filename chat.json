@@ -672,5 +672,15 @@
         "source": "base_assistant",
         "content": "It looks like there are no exclamation points in the title. Could you please clarify which text or component you want the exclamation points removed from?",
         "metadata": {}
+    },
+    {
+        "id": "395553ae-f13e-47b5-8ef8-996ebf2c6859",
+        "timestamp": "2024-12-02T19:17:50.683157Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please remove the exclamation points",
+        "metadata": {
+            "component_id": "Hero1732752431"
+        }
     }
 ]
