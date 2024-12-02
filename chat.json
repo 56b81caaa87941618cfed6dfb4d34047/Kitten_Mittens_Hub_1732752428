@@ -690,5 +690,15 @@
         "source": "base_assistant",
         "content": "It looks like there are no exclamation points to remove. How can I assist you further with your project?",
         "metadata": {}
+    },
+    {
+        "id": "cbd33503-c5d3-4720-aab5-24b5a54b92fb",
+        "timestamp": "2024-12-02T19:18:26.489374Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the title to all capital letters",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
