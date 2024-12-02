@@ -603,5 +603,15 @@
         "source": "base_assistant",
         "content": "The title has been changed to \"catzz.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "adc3fcd4-a2f9-40e4-a33c-ef3ba3de880b",
+        "timestamp": "2024-12-02T19:14:23.496138Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please change the name to 'kitten mittens'",
+        "metadata": {
+            "component_id": "Header1732752431"
+        }
     }
 ]
