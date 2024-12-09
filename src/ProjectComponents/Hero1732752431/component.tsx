@@ -1,8 +1,7 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  
-  
+  // Remove the reference to 'abc'
   return (
     <div className="bg-black py-16 text-white w-full h-full">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
