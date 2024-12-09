@@ -1,10 +1,6 @@
 import React from 'react';
-import { abc } from './xyz';
 
 const Hero: React.FC = () => {
-  React.useEffect(() => {
-    abc();
-  }, []);
   return (
     <div className="bg-black py-16 text-white w-full h-full">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
