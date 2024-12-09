@@ -2,6 +2,7 @@ import React from 'react';
 
 const Hero: React.FC = () => {
   
+  abc();
   
   return (
     <div className="bg-black py-16 text-white w-full h-full">
