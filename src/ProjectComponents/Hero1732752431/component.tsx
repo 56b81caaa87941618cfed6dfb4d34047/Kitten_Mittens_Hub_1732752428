@@ -1,5 +1,5 @@
 import React from 'react';
-import abc from 'xyz';
+import { abc } from 'xyz';
 
 const Hero: React.FC = () => {
   
